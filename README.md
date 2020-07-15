@@ -14,7 +14,9 @@
 <br />
 
 - 🌱 I’m currently learning Flutter
-- 📫 You can reach me at ***REMOVED***
+- 📫 You can reach me at ***REMOVED*** or through the social platforms linked above
+- ⚡ Find my blog on anything cars or motorsport at drivetalks.car.blog
+- 💬 Coming soon: Update to my Portfolio
 
 <!--
 - 🔭 I’m currently working on ...
