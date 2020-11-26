@@ -18,8 +18,8 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Coming soon: Update to my Portfolio
 - ⚡ Find my blog on anything cars or motorsport at [Drive Talks](https://drivetalks.car.blog)
-- 📫 You can reach me via [email](mailto:***REMOVED***) or through social media
-- 😄 Pronouns: he/him
+- 📫 You can reach me via [email](mailto:***REMOVED***) or social media
+- 😄 Pronouns: he / him
 
 <!--
 - 🔭 I’m currently working on ...
