@@ -1,3 +1,5 @@
+<!-- Search https://cdn.jsdelivr.net/npm/simple-icons@v3/icons for icons -->
+
 <!-- 
 <img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="350px" width="300px">
 -->
