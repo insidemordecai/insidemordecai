@@ -2,31 +2,39 @@
 <img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="350px" width="300px">
 -->
 
-## Yellow there 👋😂
+### Yellow there 👋😂
 
-<a href="https://linkedin.com/in/itsmordecai">
-  <img align="left" alt="Mordecai Kipng'etich | LinkedIn" width="21px" height="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/itsmordecai_">
-  <img align="left" alt="Mordecai Kipng'etich | Twitter" width="21px" height="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/twitter.svg" />
-</a>
-<a href="https://instagram.com/itsmordecai_">
-  <img align="left" alt="Mordecai Kipng'etich | Instagram" width="21px" height="21px" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/social-icons/instagram.svg" />
-</a>
-
-<br/>
-<br/>
-
-- 🔭 I’m currently working on my school project
-- 💬 Coming soon: Update to my portfolio
-- 📫 You can reach me via [email](mailto:***REMOVED***) or social media
+- 🔭 Currently working on my school project
+- 📫 You can reach me via [email] or social media
 - 😄 Pronouns: he / him
 
 <!--
 - 🌱 I’m currently learning Flutter
-- ⚡ Find my blog on anything cars / motorsport at [Drive Talks](https://drivetalks.car.blog)
-- 👯 I’m looking to collaborate on ...
+- 💬 Coming soon: Update to my portfolio
+- ⚡ Find my blog on anything cars / motorsport at [Drive Talks]
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+**Like, Share, Follow and All That Good Jazz**
+
+[<img align="left" alt="Mordecai K. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mordecai K. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mordecai K. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
+
+<!-- 
+---
+
+<img align="left" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmordecai&show_icons=true&hide_border=true">
+
+ -->
+
+[instagram]: https://instagram.com/itsmordecai_
+[twitter]: https://twitter.com/itsmordecai_
+[linkedin]: https://www.linkedin.com/in/itsmordecai
+[email]: mailto:***REMOVED***
+[Drive Talks]: https://drivetalks.car.blog
