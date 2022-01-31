@@ -24,7 +24,8 @@
 **Like, Share, Follow and All That Good Jazz**
 
 [<img align="left" alt="Mordecai K. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mordecai K. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mordecai K. | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mordecai K. | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt="Mordecai K. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
@@ -38,5 +39,6 @@
 [instagram]: https://instagram.com/itsmordecai_
 [twitter]: https://twitter.com/itsmordecai_
 [linkedin]: https://www.linkedin.com/in/itsmordecai
+[spotify]: https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4
 [email]: mailto:***REMOVED***
 [Drive Talks]: https://drivetalks.car.blog
