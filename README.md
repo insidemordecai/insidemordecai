@@ -1,14 +1,15 @@
-<!-- Search https://cdn.jsdelivr.net/npm/simple-icons@v3/icons for icons -->
+<!-- Search for icons: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons -->
+<!-- Card guide: https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- 
 <img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="350px" width="300px">
 -->
 
-### Yellow there 👋😂
+### Yellow There 👋😂
 
-- 🔭 Currently working on my school project
-- 📫 You can reach me via [email] or social media
-- 😄 Pronouns: he / him
+🔭 Currently working on my school project <br>
+📫 You can reach me via [email] or social media <br>
+😄 Pronouns: he / him
 
 <!--
 - 🌱 I’m currently learning Flutter
@@ -29,11 +30,14 @@
 [<img align="left" alt="Mordecai K. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
-<!-- 
+
 ---
 
-<img align="left" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmordecai&show_icons=true&hide_border=true">
+<img align="left" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmordecai&show_icons=true&count_private=true&theme=graywhite&hide_border=true">
 
+<!-- Wait for when it can factor private repo's as the stats card -->
+<!-- 
+<img align="left" alt="Mordecai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmordecai&show_icons=true&theme=graywhite&hide_border=true&layout=compact">
  -->
 
 [instagram]: https://instagram.com/itsmordecai_
