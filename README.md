@@ -1,10 +1,6 @@
 <!-- Search for icons: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons -->
 <!-- Card guide: https://github.com/anuraghazra/github-readme-stats -->
 
-<!-- 
-<img align="right" src="https://raw.githubusercontent.com/itsmordecai/itsmordecai/master/assets/images/seat-in-mobile.svg" height="350px" width="300px">
--->
-
 ### Yellow There 👋😂
 
 🔭 Currently working on my school project <br>
@@ -31,8 +27,6 @@
 <br>
 
 <!-- 
----
-
 <img align="left" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmordecai&show_icons=true&count_private=true&theme=graywhite&hide_border=true">
  -->
  
