@@ -26,9 +26,15 @@
 [<img align="left" alt="Mordecai K. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
-<!-- 
-<img align="left" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmordecai&show_icons=true&count_private=true&theme=graywhite&hide_border=true">
- -->
+<br>
+<details>
+ <summary><b>Others:</b></summary>
+ <br>
+
+|<img align="left" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmordecai&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true"> | <img align="left" alt="Mordecai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmordecai&layout=compact&theme=graywhite&hide_border=true&count_private=true"> |
+| ------------- | ------------- |
+
+</details>
  
 [instagram]: https://instagram.com/itsmordecai_
 [twitter]: https://twitter.com/itsmordecai_
