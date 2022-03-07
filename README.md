@@ -35,8 +35,8 @@
 
 </details>
  
-[instagram]: https://instagram.com/insidemordecai_
-[twitter]: https://twitter.com/insidemordecai_
+[instagram]: https://instagram.com/insidemordecai
+[twitter]: https://twitter.com/insidemordecai
 [linkedin]: https://www.linkedin.com/in/insidemordecai
 [spotify]: https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4
 [email]: mailto:***REMOVED***
