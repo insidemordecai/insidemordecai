@@ -30,14 +30,14 @@
 <details>
  <summary><b>Others:</b></summary>
  
- <img height="180em" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmordecai&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true">
- <img height="180em" alt="Mordecai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmordecai&layout=compact&theme=graywhite&hide_border=true&count_private=true">
+ <img height="180em" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=insidemordecai&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true">
+ <img height="180em" alt="Mordecai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidemordecai&layout=compact&theme=graywhite&hide_border=true&count_private=true">
 
 </details>
  
-[instagram]: https://instagram.com/itsmordecai_
-[twitter]: https://twitter.com/itsmordecai_
-[linkedin]: https://www.linkedin.com/in/itsmordecai
+[instagram]: https://instagram.com/insidemordecai_
+[twitter]: https://twitter.com/insidemordecai_
+[linkedin]: https://www.linkedin.com/in/insidemordecai
 [spotify]: https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4
 [email]: mailto:***REMOVED***
 [Drive Talks]: https://drivetalks.car.blog
