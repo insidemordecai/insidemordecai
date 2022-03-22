@@ -25,7 +25,6 @@
 [<img align="left" alt="Mordecai K. | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt="Mordecai K. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
-<br>
 
 <details>
  <summary><b>Others:</b></summary>
