@@ -3,9 +3,9 @@
 
 ### Yellow There 👋😂
 
+😄 Pronouns: he / him <br>
 🔭 Currently working on my school project making use of Flutter <br>
 📫 You can reach me via [email] or social media <br>
-😄 Pronouns: he / him
 
 <!--
 - 🌱 I’m currently learning Flutter
