@@ -3,8 +3,6 @@
 
 ### Yellow There 👋😂
 
-😄 Pronouns: he / him <br>
-🔭 Currently working on my school project making use of Flutter <br>
 📫 You can reach me via [email] or social media <br>
 
 <!--
@@ -14,11 +12,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+😄 Pronouns: he / him <br>
+🔭 Currently working on my school project making use of Flutter <br>
 -->
 
----
-
-**Like, Share, Follow and All That Good Jazz**
+Like, share, follow and all that good jazz:
 
 [<img align="left" alt="Mordecai K. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mordecai K. | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -27,7 +25,7 @@
 <br>
 
 <details>
- <summary><b>Others:</b></summary>
+ <summary><b>Misc:</b></summary>
  
  <img height="180em" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=insidemordecai&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true">
  <img height="180em" alt="Mordecai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidemordecai&layout=compact&theme=graywhite&hide_border=true&count_private=true">
