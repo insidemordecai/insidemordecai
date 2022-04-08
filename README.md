@@ -3,7 +3,7 @@
 
 ### Yellow There 👋😂
 
-📫 You can reach me via [email] or social media <br>
+You can reach me via [email] or social media
 
 <!--
 - 🌱 I’m currently learning Flutter
@@ -12,6 +12,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+📫 
 😄 Pronouns: he / him <br>
 🔭 Currently working on my school project making use of Flutter <br>
 -->
