@@ -17,13 +17,13 @@ You can reach me via [email] or social media
 🔭 Currently working on my school project making use of Flutter <br>
 -->
 
-<!-- Like, share, follow and all that good jazz:
+Like, share, follow and all that good jazz:
 
 [<img align="left" alt="Mordecai K. | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mordecai K. | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mordecai K. | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt="Mordecai K. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br> -->
+<br>
 
 <details>
  <summary><b>Misc:</b></summary>
