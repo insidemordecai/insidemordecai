@@ -3,7 +3,7 @@
 
 ### Yellow There 👋😂
 
-You can reach me via [email] or social media
+You can reach me via social media, preferrably Twitter but any can do
 
 <!--
 - 🌱 I’m currently learning Flutter
@@ -37,5 +37,4 @@ Like, share, follow and all that good jazz:
 [twitter]: https://twitter.com/insidemordecai
 [linkedin]: https://www.linkedin.com/in/insidemordecai
 [spotify]: https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4
-[email]: mailto:***REMOVED***
 [Drive Talks]: https://drivetalks.car.blog
