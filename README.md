@@ -3,12 +3,13 @@
 
 ### Yellow There 👋😄
 
-You can reach me via [email] or social media
+You can reach me via [email] or social media, preferrably Twitter but any can do...
+Also, have a look at my portfolio at [insidemordecai.com](https://insidemordecai.com)
 
 <!--
 - 🌱 I’m currently learning Flutter
 - 💬 Coming soon: Update to my portfolio
-- ⚡ Find my blog on anything cars / motorsport at [Drive Talks]
+- ⚡
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
@@ -26,7 +27,7 @@ Like, share, follow and all that good jazz:
 <br>
 
 <details>
- <summary><b>Misc:</b></summary>
+ <summary><b>Stats:</b></summary>
  
  <img height="180em" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=insidemordecai&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true">
  <img height="180em" alt="Mordecai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidemordecai&layout=compact&theme=graywhite&hide_border=true&count_private=true">
@@ -38,4 +39,3 @@ Like, share, follow and all that good jazz:
 [linkedin]: https://www.linkedin.com/in/insidemordecai
 [spotify]: https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=29415d195d8d41f4
 [email]: mailto:contact@insidemordecai.com
-[Drive Talks]: https://drivetalks.car.blog
