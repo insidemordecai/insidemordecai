@@ -4,7 +4,8 @@
 ### Yellow There 👋😄
 
 You can reach me via [email] or social media, preferrably Twitter but any can do...
-Also, have a look at my portfolio at [insidemordecai.com](https://insidemordecai.com)
+
+Also, have a look at my portfolio/blog at [insidemordecai.com](https://insidemordecai.com)
 
 <!--
 - 🌱 I’m currently learning Flutter
