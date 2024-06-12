@@ -2,9 +2,9 @@
 
 ### Hey There 👋
 
-- You can reach me via [email](mailto:contact@insidemordecai.com) or social media, preferrably [Twitter](https://twitter.com/insidemordecai) but any can do...
+- You can reach me via [email](mailto:mk@insidemordecai.com) or social media, preferrably [Twitter](https://twitter.com/insidemordecai) but any can do...
 
-- Also, have a look at my portfolio/blog at [insidemordecai.com](https://insidemordecai.com)
+- Also, have a look at my website at [insidemordecai.com](https://insidemordecai.com)
 
 
 <details>
