@@ -8,18 +8,32 @@
 
 <div align="center">
   <a href="https://github.com/insidemordecai">
-    <img
-      height="180em"
-      src="https://github-stats-extended.vercel.app/api?username=insidemordecai&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha"
-      alt="Mordecai's GitHub Stats"
-    />
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=insidemordecai&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&card_width=400"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        height="200"
+        align="center"
+        src="https://github-stats-extended.vercel.app/api?username=insidemordecai&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_latte&card_width=400"
+        alt="Mordecai's GitHub Stats"
+      />
+    </picture>
   </a>
   <a href="https://github.com/insidemordecai">
-    <img
-      height="180em"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=insidemordecai&layout=compact&hide_title=true&langs_count=6&theme=catppuccin_mocha"
-      alt="Mordecai's Top Languages"
-    />
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=insidemordecai&layout=compact&hide_title=true&langs_count=8&theme=catppuccin_mocha&card_width=260"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        height="200"
+        align="center"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=insidemordecai&layout=compact&hide_title=true&langs_count=8&theme=catppuccin_latte&card_width=260"
+        alt="Mordecai's Top Languages"
+      />
+    </picture>
   </a>
 </div>
 
