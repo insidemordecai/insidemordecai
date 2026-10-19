@@ -1,4 +1,4 @@
-<!-- Card guide: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Card guide: https://github.com/stats-organization/github-stats-extended -->
 
 ### Hey There 👋
 
@@ -6,14 +6,9 @@
 
 - Also, have a look at my website at [insidemordecai.com](https://insidemordecai.com)
 
+[![Mordecai's GitHub Stats](https://github-stats-extended.vercel.app/api?username=insidemordecai&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=insidemordecai&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 
-<details>
- <summary><b>Stats:</b></summary>
- 
- <img height="180em" alt="Mordecai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=insidemordecai&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true">
- <img height="180em" alt="Mordecai's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidemordecai&layout=compact&theme=graywhite&hide_border=true&count_private=true">
-
-</details>
+[![Mordecai's Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=insidemordecai&layout=compact&hide_title=true&langs_count=6&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=insidemordecai&layout=compact&hide_title=true&langs_count=6&theme=catppuccin_mocha)
 
 <!--
 - 🌱 I’m currently learning Flutter
